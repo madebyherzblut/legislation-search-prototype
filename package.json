@@ -1,0 +1,23 @@
+{
+  "name": "legislation-search-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Schuhmann",
+  "license": "ISC",
+  "dependencies": {
+    "@opensearch-project/opensearch": "^2.3.1",
+    "globby": "^13.2.2",
+    "remark-frontmatter": "^4.0.1",
+    "remark-html": "^15.0.2",
+    "remark-parse": "^10.0.2",
+    "remark-parse-frontmatter": "^1.0.3",
+    "remark-stringify": "^10.0.3",
+    "strip-markdown": "^5.0.1",
+    "to-vfile": "^8.0.0",
+    "unified": "^10.1.2"
+  }
+}
